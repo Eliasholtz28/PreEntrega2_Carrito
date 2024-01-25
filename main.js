@@ -66,3 +66,7 @@ function mostrarCarrito() {
   
   console.log(`Suma Total: $${sumaTotal}`);
 }
+
+alert('bienvenido, revisa nuestra lista de productos en la consola')
+
+mostrarListaProductos()
